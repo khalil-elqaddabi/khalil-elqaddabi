@@ -67,7 +67,7 @@
 <table width="100%">
   <tr>
     <td align="left">
-      <a href="https://www.linkedin.com/in/khalil-el-qaddabi/">
+      <a href="https://www.linkedin.com/in/khalil-el-qaddabi-34b8a93aa/">
         <img src="https://img.shields.io/badge/CONNECT-LINKEDIN-0A66C2?style=for-the-badge&labelColor=444444&logo=linkedin&logoColor=white" />
       </a>
     </td>
