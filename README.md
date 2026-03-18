@@ -1,25 +1,105 @@
 <div align="center">
-  <img src="https://your-banner-image-url.png" alt="Banner" width="100%"/>
-  <h1>Hey, I'm Khalil El Qaddabi 👋</h1>
-  <p>Junior Web Developer | Laravel API & Backend | Youcode Student, Casablanca 🇲🇦</p>
+
+<!-- DARK HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f0f,100:000000&height=300&section=header&text=KHALIL%20EL%20QADDABI&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername)](https://github-readme-streak-stats.herokuapp.com/?user=khalil-elqaddabi)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github-readme-stats.vercel.app/)
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Laravel+%7C+React;Building+Real+Projects;Future+Software+Engineer" />
+
+</div>
+
+---
+
+## 🧠 About Me
+
+- 🎓 YouCode Student  
+- 💻 Passionate about Web Development  
+- 🚀 Working with Laravel & React  
+- 🎯 Goal: Become a professional developer  
+
+---
 
 ## 🛠️ Tech Stack
-- **Backend**: Laravel, PHP, Sanctum [web:1]
-- **Database**: MySQL, Migrations
-- **Tools**: VS Code, Postman, Linux Mint
-- **Learning**: REST APIs, MVC, Debugbar
 
-## 🔥 Featured Projects
-- [Quiz Platform API](link-to-repo) - Authentication & scoring backend
-- [Email Invitation Flow](link-to-repo) - Laravel + templates
+<div align="center">
 
-## 📫 Contact
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: linkedin.com/in/khalilelqaddabi
-- 🐦 X/Twitter: @yourhandle
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,mysql,git,github" />
 
-⭐ Star this repo if it helps! <img src="https://raw.githubusercontent.com/TrilogyGroup/trilogy-group/master/images/gifs/developer.gif" width="30"/>
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+- 🔹 EasyColoc → Colocation management system  
+- 🔹 TicketMatch → Match reservation platform  
+- 🔹 Portfolio Website  
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🎯 2026 Goals
+
+- 🚀 Get my first internship  
+- 🧠 Master Laravel & APIs  
+- 🌍 Build real-world projects  
+
+---
+
+# 🔥 CONNECT ZONE (Like your design)
+
+<table width="100%">
+  <tr>
+    <td align="left">
+      <a href="https://www.linkedin.com/in/YOUR-LINK/">
+        <img src="https://img.shields.io/badge/CONNECT-LINKEDIN-0A66C2?style=for-the-badge&labelColor=444444&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+
+  <tr><td height="60"></td></tr>
+
+  <tr>
+    <td align="center">
+      <a href="mailto:YOUR_EMAIL@gmail.com">
+        <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+
+  <tr><td height="60"></td></tr>
+
+  <tr>
+    <td align="right">
+      <a href="https://twitter.com/YOUR_USERNAME">
+        <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## ⚡ Dev Dashboard
+
+```md
+Level: Junior Developer  
+XP: ███████░░░░  
+Focus: Backend (Laravel)  
+Coffee: ☕☕☕☕☕  
