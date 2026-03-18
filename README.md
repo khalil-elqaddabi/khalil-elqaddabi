@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f0f,100:000000&height=300&section=header&text=KHALIL%20EL%20QADDABI&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f0f0f&height=250&section=header&text=Khalil%20El%20Qaddabi&fontSize=45&fontColor=00F7FF&animation=twinkling&fontAlignY=40" />
 
 </div>
 
