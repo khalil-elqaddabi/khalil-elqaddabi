@@ -58,29 +58,23 @@
 - 🚀 Get my first internship  
 - 🧠 Master Laravel & APIs  
 - 🌍 Build real-world projects  
-
 ---
-
-## 🌐 Connect
-
 <div align="center">
 
-<a href="https://www.linkedin.com/in/khalil-el-qaddabi-34b8a93aa/">
+<a href="https://www.linkedin.com/in/khalil-el-qaddabi-34b8a93aa/" style="margin: 0 15px;">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
-<a href="mailto:khalilelqaddabi9@gmail.com">
+<a href="mailto:khalilelqaddabi9@gmail.com" style="margin: 0 15px;">
   <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
 
-<a href="https://x.com/elqaddabikhalil">
+<a href="https://x.com/elqaddabikhalil" style="margin: 0 15px;">
   <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
 </a>
 
 </div>
-
 ---
-
 ## ⚡ Dev Dashboard
 
 ```md
