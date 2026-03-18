@@ -67,7 +67,7 @@
 <table width="100%">
   <tr>
     <td align="left">
-      <a href="https://www.linkedin.com/in/YOUR-LINK/">
+      <a href="https://www.linkedin.com/in/khalil-el-qaddabi/">
         <img src="https://img.shields.io/badge/CONNECT-LINKEDIN-0A66C2?style=for-the-badge&labelColor=444444&logo=linkedin&logoColor=white" />
       </a>
     </td>
@@ -77,7 +77,7 @@
 
   <tr>
     <td align="center">
-      <a href="mailto:YOUR_EMAIL@gmail.com">
+      <a href="mailto:khalilelqaddabi9@gmail.com">
         <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
       </a>
     </td>
@@ -87,7 +87,7 @@
 
   <tr>
     <td align="right">
-      <a href="https://twitter.com/YOUR_USERNAME">
+      <a href="[https://twitter.com/YOUR_USERNAME](https://x.com/elqaddabikhalil)">
         <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
       </a>
     </td>
