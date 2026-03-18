@@ -60,41 +60,23 @@
 - 🧠 Master Laravel & APIs  
 - 🌍 Build real-world projects  
 
----
+## 🌐 Let's Connect
 
-# 🔥 CONNECT ZONE (Like your design)
+<div align="center">
 
-<table width="100%">
-  <tr>
-    <td align="left">
-      <a href="https://www.linkedin.com/in/khalil-el-qaddabi-34b8a93aa/">
-        <img src="https://img.shields.io/badge/CONNECT-LINKEDIN-0A66C2?style=for-the-badge&labelColor=444444&logo=linkedin&logoColor=white" />
-      </a>
-    </td>
-  </tr>
+<a href="https://www.linkedin.com/in/YOUR-LINK/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
 
-  <tr><td height="60"></td></tr>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
 
-  <tr>
-    <td align="center">
-      <a href="mailto:khalilelqaddabi9@gmail.com">
-        <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-      </a>
-    </td>
-  </tr>
+<a href="https://twitter.com/YOUR_USERNAME">
+  <img src="https://skillicons.dev/icons?i=twitter" height="50"/>
+</a>
 
-  <tr><td height="60"></td></tr>
-
-  <tr>
-    <td align="right">
-      <a href="[https://twitter.com/YOUR_USERNAME](https://x.com/elqaddabikhalil)">
-        <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
+</div>
 
 ## ⚡ Dev Dashboard
 
