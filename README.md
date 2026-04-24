@@ -84,7 +84,7 @@ $khalil = [
 ├─────────────────────────────────────────────────────┤
 │  Focus   : Backend Architecture & APIs              │
 │  Mode    : Learn → Build → Ship → Repeat            │
-│  Coffee  : ☕☕☕☕☕  (critical resource)           │
+│  Coffee  : ☕☕☕☕☕  (critical resource)               │
 └─────────────────────────────────────────────────────┘
 ```
 
